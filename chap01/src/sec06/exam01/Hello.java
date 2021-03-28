@@ -2,6 +2,6 @@ package sec06.exam01;
 
 public class Hello {
 	public static void main(String[] args) {
-		System.out.println("Hello, 자바");
+		System.out.println("Hello, 자바2");
 	}
 }
