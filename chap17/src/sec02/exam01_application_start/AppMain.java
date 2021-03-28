@@ -11,7 +11,6 @@ public class AppMain extends Application {
 	
 	public static void main(String[] args) {
 		launch(args); //AppMain 按眉 积己 棺 皋牢 扩档快 积己
-		// test
 	}
 }
 
