@@ -7,7 +7,5 @@ public class NestedClassExample {
 		Car.Tire tire = myCar.new Tire();
 		
 		Car.Engine engine = new Car.Engine();
-		
-		// test...
 	}
 }
