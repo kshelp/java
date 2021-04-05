@@ -1,4 +1,4 @@
-package verify;
+package verify.exam00;
 
 import java.io.InputStream;
 import java.util.Scanner;
@@ -7,7 +7,7 @@ public class JuminCheck01 {
 
 	// 주민번호 타당성 검사하는 메소드
 	public boolean juminCheck(String jumin) {
-		// jumin = "8010101234567";
+		// jumin = "8001011234567";
 		int total = 0;
 		int total2;
 
