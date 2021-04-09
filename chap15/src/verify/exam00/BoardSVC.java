@@ -1,4 +1,4 @@
-package verify;
+package verify.exam00;
 // DAO(Data Access Object) Å¬·¡½º
 
 import java.util.ArrayList;

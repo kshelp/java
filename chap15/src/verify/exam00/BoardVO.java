@@ -1,4 +1,4 @@
-package verify;
+package verify.exam00;
 // VO(Value Object) 클래스
 
 // DTO(Data Transfer Object) 클래스
