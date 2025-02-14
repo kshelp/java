@@ -46,9 +46,11 @@ public class HashMapExample1 {
 		}
 		System.out.println();
 		
+		
 		//°´Ã¼ ÀüÃ¼ »èÁ¦
 		map.clear();
 		System.out.println("ÃÑ Entry ¼ö: " + map.size());
+		
 	}
 }
 

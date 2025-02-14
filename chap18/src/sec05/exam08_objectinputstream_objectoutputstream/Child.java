@@ -17,4 +17,5 @@ public class Child extends Parent implements Serializable {
 	   field1 = in.readUTF();
 	   in.defaultReadObject();
 	}
+	
 }

@@ -69,7 +69,7 @@ public class BoardSVC {
 			for (int i = 0; i < boardList.size(); i++) {
 				if (boardList.get(i).getRegister().equals(register)) {
 					if (boardList.get(i).getPasswd().equals(passwd)) {
-						boardList.remove(boardList.get(i));
+						boardList.remove(i);
 						flag = i;
 						i--;
 					}
@@ -77,9 +77,9 @@ public class BoardSVC {
 			}
 			if (flag == -1) {
 				System.out.println("해당 작성자가 없거나 비밀번호가 일치하지 않습니다.");
-				return;
+			} else {
+				System.out.println("성공적으로 글이 삭제되었습니다.");
 			}
-			System.out.println("성공적으로 글이 삭제되었습니다.");
 		} else {
 			System.out.println("작성된 글이 존재하지 않습니다.");
 		}

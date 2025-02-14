@@ -6,6 +6,7 @@ import java.io.Reader;
 
 public class InputStreamReaderExample {
 	public static void main(String[] args) throws Exception {
+		System.out.println("ют╥б: ");
 		InputStream is = System.in;
 		Reader reader = new InputStreamReader(is);	
 		

@@ -13,8 +13,8 @@ public class SetTest01 {
 		// TODO Auto-generated method stub
 
 		int n;
-		//Set s = new HashSet();
-		//TreeSet s = new TreeSet();
+		Set s = new HashSet();
+		TreeSet ts = new TreeSet();
 		
 		Random r = new Random();		
 		
@@ -35,11 +35,15 @@ public class SetTest01 {
 		}
 		*/
 		
-		Set t = new HashSet();
-		while(t.size()!=45) {
-			t.add(r.nextInt(45)+1);
+	
+		while(s.size() < 6) {
+			s.add(r.nextInt(45)+1);
 		}
-		System.out.println(t);
+		System.out.println(s);
+		
+		ts.addAll(s);
+		System.out.println(ts); // Prints [1, 12, 23, 45]
+		
 		
 	}
 

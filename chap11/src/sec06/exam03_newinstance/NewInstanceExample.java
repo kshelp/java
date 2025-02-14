@@ -5,7 +5,10 @@ public class NewInstanceExample {
 		try {
 			Class clazz = Class.forName("sec06.exam03_newinstance.SendAction");
 			//Class clazz = Class.forName("sec06.exam03_newinstance.ReceiveAction");
+			//Object obj = (SendAction) clazz.newInstance();
+			//Action action = (Action) obj;
 			Action action = (Action) clazz.newInstance();
+			
 			action.execute();
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();

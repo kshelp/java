@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a65420d-83d1-4799-8dea-64269d4f5b4a" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/bin/sec02/exam02_char/CharExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/bin/sec02/exam02_char/CharExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/bin/sec02/exam06_boolean/BooleanExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/bin/sec02/exam06_boolean/BooleanExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/bin/sec03/exam01_promotion/PromotionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/bin/sec03/exam01_promotion/PromotionExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/bin/sec03/exam01_promotion/PromotionExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/bin/sec03/exam01_promotion/PromotionExample1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/bin/sec03/exam02_casting/CheckValueBeforeCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/bin/sec03/exam02_casting/CheckValueBeforeCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/bin/sec03/exam04_operation/OperationsPromotionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/bin/sec03/exam04_operation/OperationsPromotionExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/bin/sec03/exam04_operation/OperationsPromotionExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/bin/sec03/exam04_operation/OperationsPromotionExample1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/bin/verify/MinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/bin/verify/MinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap03/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap03/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/src/sec08/exam01_abstract_class/PhoneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/src/sec08/exam01_abstract_class/PhoneExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap09/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap10/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap10/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap10/src/sec07_user_define_exception/AccountExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap10/src/sec07_user_define_exception/AccountExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap11/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap11/src/sec06/exam03_newinstance/NewInstanceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11/src/sec06/exam03_newinstance/NewInstanceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap11/src/sec11/exam01_arrays/SearchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11/src/sec11/exam01_arrays/SearchExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap13/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap13/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap14/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap14/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap15/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap15/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap15/src/sec04/exam01_hashmap/HashMapExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap15/src/sec04/exam01_hashmap/HashMapExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap15/src/verify/exam00/BoardSVC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap15/src/verify/exam00/BoardSVC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap15/src/verify/exam00/SetTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap15/src/verify/exam00/SetTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap15/src/verify/exam07/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap15/src/verify/exam07/ListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap16/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap16/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap17/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap17/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap18/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../chap18/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap18/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap18/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap18/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../chap18/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap18/src/sec02/exam01_inputstream_read/ReadExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap18/src/sec02/exam01_inputstream_read/ReadExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap18/src/sec05/exam01_inputstreamreader/InputStreamReaderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap18/src/sec05/exam01_inputstreamreader/InputStreamReaderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap18/src/sec05/exam08_objectinputstream_objectoutputstream/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap18/src/sec05/exam08_objectinputstream_objectoutputstream/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap19/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap19/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap20/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../chap20/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap20/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chap20/.project" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2oYp8koV9Qy12NucyuMRykPCGem" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/dev/workspace/java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="1a65420d-83d1-4799-8dea-64269d4f5b4a" name="변경" comment="" />
+      <created>1731056205953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731056205953</updated>
+    </task>
+    <servers />
+  </component>
+</project>
